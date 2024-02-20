@@ -1,3 +1,4 @@
 # Branching is a fundamental concept in version control system such as in GIT.
 # Branching allows different streams of work to be conducted simultaneously
 # Branching allows separated isolation works, hence changes will be kept away from each other
+# Branching allows collaboration to take place since different we can work on different branches at the same time and merge it when needed.

@@ -1,3 +1,4 @@
 # Merging is the process of integrating or combining changes from different branches.
 # Merging allows different changes from different branches to be merge into one. 
 # Merging allows resolving conflicts due to inconsistent changes across branches.
+# Merging allows the code from different branches to be wholly unified into one code base.
