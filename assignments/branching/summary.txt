@@ -1,0 +1,1 @@
+# Branching is a fundamental concept in version control system such as in GIT.

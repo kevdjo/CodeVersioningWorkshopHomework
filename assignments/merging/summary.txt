@@ -1,0 +1,1 @@
+# Merging is the process of integrating or combining changes from different branches.
